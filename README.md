@@ -36,7 +36,7 @@ jar-file inside the target folder, which can be used as a dependency in other pr
 
 ## FAQ
 
-If you have any questions, please checkout our <insert FAQ link here if using maven site, otherwise write a small FAQ section here>.
+If you have any questions, please checkout our [FAQ](https://fhooeaist.github.io/xes-model/faq.html) section.
 
 ## Contributing
 
